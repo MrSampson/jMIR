@@ -1,4 +1,4 @@
-==========================================================================
+=========================================================================
  jMIRUtilities 1.4.1
  by Cory McKay
  Copyright (C) 2010 (GNU GPL)
@@ -25,7 +25,7 @@ and a delimited text file generated that lists the File Path, Recording
 Title, Artist Name, Composer Name, Album Title and/or Genre Names for
 each recording in the file, as requested by the user. This can be a useful
 pre-processing step for generating ACE XML Instance Label files from
-iTunes XML files via jMIRUtilities’ automatic instance labelling
+iTunes XML files via jMIRUtilitiesï¿½ automatic instance labelling
 functionality.
 - Modify instance identifiers: Text files containing mappings between old
 instance identifiers and new instance identifiers may be used to 
